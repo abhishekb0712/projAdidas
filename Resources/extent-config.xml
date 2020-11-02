@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<encoding>UTF-8</encoding>
+		<protocol>https</protocol>
+		<documentTitle>SFDC Automation Report</documentTitle>
+		<reportName>SFDC Automation Report</reportName>
+		<dateFormat>MM-DD-YYYY</dateFormat>
+		
+	</configuration>
+</extentreports>
